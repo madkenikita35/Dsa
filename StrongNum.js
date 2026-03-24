@@ -21,3 +21,8 @@ if(sum === copy){
     console.log("Not a Strong Number")
 }
 
+// process.stdout.write("Hello")
+// process.stdout.write("World")
+
+// console.log("Hello")
+// console.log("World")
